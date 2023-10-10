@@ -1,4 +1,4 @@
-## Olá! Eu sou o Edgard Antony 😁
+### Olá! Eu sou o Edgard Antony 😁
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/slo._.004/)
 [![Whatzapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white
@@ -9,6 +9,8 @@
 )](https://www.tiktok.com/@slo.004?is_from_webapp=1&sender_device=pc)
 
 ![Piolho GitHub stats](https://github-readme-stats.vercel.app/api?username=Piolho123&show_icons=true&theme=tokyonight)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=piolho123)](https://github.com/Piolho123/github-readme-stats)
 <br>
 ### Tecnologias que eu uso no meu dia
 <div style="display: inline_block"><br/>
