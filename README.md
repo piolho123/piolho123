@@ -1,4 +1,4 @@
-### Olá! Eu sou o Edgard Antony 😁
+## Olá! Eu sou o Edgard Antony 😁
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/slo._.004/)
 [![Whatzapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white
@@ -26,4 +26,4 @@
 [![Blog](https://img.shields.io/website?.com&stryle=for-the-badge&url=https://sujeitoprogramador.com/
 )](https://homepage72357.netlify.app)
 <br><br>
-### <b>Programadores e artistas são os únicos profissionais que tem como hobby a própria profissão.<b/>
+### Programadores e artistas são os únicos profissionais que tem como hobby a própria profissão.
